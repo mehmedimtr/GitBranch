@@ -2,7 +2,9 @@
 public class BranchDeneme {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("Feature branch 1. satir");
+		System.out.println("Feature branch 2. satir");
+		
 
 	}
 
